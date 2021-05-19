@@ -1,0 +1,7 @@
+.text {
+    color: rgb(198, 13, 13);
+  }
+
+.text:hover {
+    color: #fc66aa;
+  }

@@ -1,0 +1,45 @@
+
+
+.styles_button {
+    border: 1px solid #fff;
+    border-radius: 100%;
+    padding: .4rem .8rem;
+    margin-right: 1rem;
+    color: #fff;
+    transition: all .7s ease-out;
+    position: fixed;
+    top: 30;
+    right: 0;
+}
+
+.styles_button:hover {
+    border: none;
+    cursor: pointer;
+    color: #000;
+    background: #fc66aa;
+    all: -webkit-linear-gradient(90deg,#fc66aa,#ac44df);
+    background: linear-gradient( 90deg,#fc66aa,#ac44df);
+    -webkit-animation: styles_bounceRight__Of1af 2s infinite;
+    animation: styles_bounceRight__Of1af 1s infinite;
+}
+
+.styles_main_article_title__pIN8z {
+    text-align: center;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.paragraph {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.logo {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+
